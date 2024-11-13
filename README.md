@@ -1,4 +1,4 @@
-# mental_health_tracker
+# mental_health_tracker_mobile
 
 A new Flutter project.
 
